@@ -1,4 +1,4 @@
-# Appsworld.Web.Scaffolding
+# Angular Web App with grunt
 
 Steps to be followed:
 
